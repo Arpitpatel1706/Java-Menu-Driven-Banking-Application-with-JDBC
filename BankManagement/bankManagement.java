@@ -10,7 +10,7 @@ import java.sql.SQLException;
 import java.sql.SQLIntegrityConstraintViolationException;
 import java.sql.Statement;
 
-import BankManagement.Banking.connection;
+import BankManagement.Connection.connection;
 
 public class bankManagement { // these class provides all
 								// bank method
